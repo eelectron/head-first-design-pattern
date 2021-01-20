@@ -7,5 +7,6 @@
 6.Command  
 7.Adapter  
 8.Iterator  
-9.State  
+9.Template
+10.State
 
